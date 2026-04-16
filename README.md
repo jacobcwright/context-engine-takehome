@@ -102,4 +102,4 @@ Screen recording with narration is fine. We want to hear you think about your ow
 
 ### Questions?
 
-Email jacob@madethis.app.
+Email jacob@madethis.com.
