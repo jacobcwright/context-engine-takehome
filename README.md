@@ -10,7 +10,7 @@ Build a system that analyzes a GitHub repository and generates structured contex
 
 **Step 1: Start the clock**
 
-If you haven't already, fill out the [Start Form](TODO_START_FORM_URL). Your 6-hour window begins when you submit that form.
+If you haven't already, fill out the [Start Form](https://forms.gle/LdKDQpXqehbtvJHMA). Your 6-hour window begins when you submit that form.
 
 **Step 2: Build, eval, deploy, iterate**
 
@@ -22,7 +22,7 @@ If you haven't already, fill out the [Start Form](TODO_START_FORM_URL). Your 6-h
 
 **Step 3: Submit**
 
-Fill out the [Submission Form](TODO_END_FORM_URL) with your repo, live URL, and video link.
+Fill out the [Submission Form](https://forms.gle/E5v6maZA4Ef3SBFm6) with your repo, live URL, and video link.
 
 ---
 
@@ -39,7 +39,7 @@ Language, framework, and approach are your choice. CLI, web app, API — whateve
 
 ### Part 2: The Eval Framework
 
-Build a lightweight eval that compares your output against DeepWiki for the same repos.
+Build a lightweight eval that compares your output against [DeepWiki](https://deepwiki.org/) for the same repos. DeepWiki is Cognition's (Devin AI) open documentation generator — read their [announcement post](https://cognition.ai/blog/deepwiki) for context on what it does and how it works.
 
 See [`reference/deepwiki-mcp.md`](reference/deepwiki-mcp.md) for the DeepWiki MCP API details and examples.
 

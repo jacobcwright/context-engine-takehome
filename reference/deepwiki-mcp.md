@@ -1,6 +1,8 @@
 # DeepWiki MCP API Reference
 
-DeepWiki by Cognition (Devin AI) generates wiki-style documentation for GitHub repositories. It exposes a public MCP (Model Context Protocol) API — no authentication required for public repos.
+[DeepWiki](https://deepwiki.org/) by Cognition (Devin AI) generates wiki-style documentation for GitHub repositories. Read the [announcement blog post](https://cognition.ai/blog/deepwiki) for background on what it does.
+
+It exposes a public MCP (Model Context Protocol) API — no authentication required for public repos.
 
 ## Endpoint
 
